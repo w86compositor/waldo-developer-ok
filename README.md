@@ -1,0 +1,1 @@
+Waldo the Developer is my personal website, a place to find great articles written or curated by me. <br><br> I love to write good reviews on products I consider are great to have, like fitness apparel or just your next favorite gadget.<br><br> This Website is still in construction. Check Back soon!
