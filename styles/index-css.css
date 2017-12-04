@@ -48,3 +48,21 @@ a {
     text-transform: uppercase;
     letter-spacing: 7.2px;
 }
+
+.bbb-articles {
+    text-decoration: none !important;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 24px;
+    text-transform: uppercase;
+    letter-spacing: 0.97px;
+
+}
+
+.articles-title {
+
+    color: #333333;
+    font-weight: 400;
+    text-transform: uppercase;
+
+}
